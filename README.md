@@ -1,22 +1,24 @@
+<<<<<<< HEAD
 # Mayan Personal Site
 A Personal Site- 
+=======
+# Mayan Atir Personal Site- 
+>>>>>>> 450f7ede21efb12d5e55571ac2675f290dedd0b9
 ---------------------------------------------------------------------------------
-About me, 
----------------------------------------------------------------------------------
-CV, 
+About me, CV, Contact 
 ---------------------------------------------------------------------------------
 Projects-
    E-Commerce Site(Toy Store)==>https://homework-575fa.firebaseapp.com/home, 
+---------------------------------------------------------------------------------
    Admin Site For Toy Store(Password Required)==> https://toy-store-admin.firebaseapp.com/
+---------------------------------------------------------------------------------
    Tic Tac Teo(full code in another repository) ==> https://tictactoe-mayan.firebaseapp.com/
 ---------------------------------------------------------------------------------
-Contact 
+![prsonalSiteHomePage](https://user-images.githubusercontent.com/55134363/69483510-d308a680-0e30-11ea-93f1-a84ff30fa303.png)
 ---------------------------------------------------------------------------------
-![Personal Site](https://cdn1.imggmi.com/uploads/2019/11/23/c1c7892cb313e40a6a006ecc6fb5cae1-full.png)
+![prsonalSiteProjPage](https://user-images.githubusercontent.com/55134363/69483529-fdf2fa80-0e30-11ea-8038-a0d3607f52a2.png)
 ---------------------------------------------------------------------------------
-![Personal Site](https://ibb.co/y8pcW18)
----------------------------------------------------------------------------------
-![Personal Site](hhttps://ibb.co/yB8Sdqb)
+![prsonalSiteCvPage](https://user-images.githubusercontent.com/55134363/69483540-21b64080-0e31-11ea-90f3-3e4ac2e88aa9.png)
 ---------------------------------------------------------------------------------
 
 
