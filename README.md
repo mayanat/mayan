@@ -4,7 +4,10 @@ A Personal Site-
 About me, CV, Contact 
 ---------------------------------------------------------------------------------
 Projects-
-   E-Commerce Site(Toy Store)==>https://homework-575fa.firebaseapp.com/home, 
+---------------------------------------------------------------------------------
+   Blog Site==> https://mayanblogs.firebaseapp.com/ 
+---------------------------------------------------------------------------------
+   E-Commerce Site(Toy Store)==>https://homework-575fa.firebaseapp.com/
 ---------------------------------------------------------------------------------
    Admin Site For Toy Store(Password Required)==> https://toy-store-admin.firebaseapp.com/
 ---------------------------------------------------------------------------------
