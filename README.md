@@ -13,7 +13,7 @@ Projects-
 ---------------------------------------------------------------------------------
 ![prsonalSiteHomePage](https://user-images.githubusercontent.com/55134363/69483510-d308a680-0e30-11ea-93f1-a84ff30fa303.png)
 ---------------------------------------------------------------------------------
-![prsonalSiteProjPage](https://user-images.githubusercontent.com/55134363/69483529-fdf2fa80-0e30-11ea-8038-a0d3607f52a2.png)
+![prsonalSiteProjPage](https://user-images.githubusercontent.com/55134363/69516820-8e2d5e80-0f5b-11ea-9443-108d726a4736.png)
 ---------------------------------------------------------------------------------
 ![prsonalSiteCvPage](https://user-images.githubusercontent.com/55134363/69483540-21b64080-0e31-11ea-90f3-3e4ac2e88aa9.png)
 ---------------------------------------------------------------------------------
